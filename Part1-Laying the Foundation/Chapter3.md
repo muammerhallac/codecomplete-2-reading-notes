@@ -22,6 +22,60 @@ Preparation for construction is not an exact science. Details can vary greatly a
 Different kinds of software projects call for different balances between preparation and construction. Every project is unique. 
 
 ## 3. Problem-Definition Prerequisite
+
+The problem definition lays down the foundation for the rest of programming process. The problem definition should be in user language, and it should be described from the user's point of view.
+
+Be sure you know what you are aiming at before you start.
+
+The penalty for failing to define the problem is that you can waste a lot of time solving the wrong problem. Actually this is a double penalty because you have a wrong problem solution and you did not resolve the actual problem yet.
+
 ## 4. Requirements Prerequisite
+
+Requirements describe in detail what a software system is supposed to do, and they are the first step toward a solution. The requirements activity is also known as "requirements development", "requirements analysis", "analysis", "requirement definition", "software requirements", "specification", "functional spec." and "spec."
+
+### Handling Requirements Changes During Construction
+here are several things you can do to make the best of changing requirements during construction;
+
+* Use the requirements checklist at the end of the section to assess the quality your requirements
+* Make sure everyone knows the cost of requirement changes
+* Set up a change-control procedure
+* Use development approaches that accommodate changes
+* Dump the project
+* Keep your eye on the business case for the project
+
 ## 5. Architecture Prerequisite
+
+Software architecture is the high-level part of software design. Architecture is also known as "system architecture," "high-level design," and "top-level design". 
+
+Good architecture makes construction easy. Bad architecture makes construction almost impossible. Without a good software architecture, you may have the right problem but the wrong solution. 
+
+Architectural changes are expensive to make during construction or later.
+
+### Typical Architecture Components
+
+* Program Organization
+* Major Classes
+* Data design
+* Business Rules
+* User Interface Design
+* Resource Management
+* Security
+* Performance
+* Scalability
+* Interoperability
+* Internationalization/Localization
+* Input/Output
+* Error Processing
+* Fault Tolerance
+* Architectural Feasibility
+* Overengineering
+* Buy vs. Build Decision
+* Reuse decision
+* Change Strategy
+* General Architectural Quality
+
 ## 6. Amount of Time to Spend on Upstream Prerequisites
+
+Amount of time to spend on problem definition, requirements, and software architecture varies according to your project. Generally a well-run project devotes about 10 to 20 percent of its effort and about 20 to 30 percent of its schedule to requirements, architecture, and up-front planning.
+
+If requirements are unstable and you are working on a small project you will probably need to resolve requirement issues yourself.

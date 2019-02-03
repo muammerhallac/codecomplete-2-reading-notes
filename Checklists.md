@@ -1,4 +1,4 @@
-* [Requirements](https://github.com/muammerhallac/codecomplete-2-reading-notes/blob/master/README.md)
+* [Requirements](https://github.com/muammerhallac/checklists/blob/master/Requirements.md)
 * [Architecture](#)
 * [Upstream Prerequisites](#)
 * [Major Constraction Practices](#)
